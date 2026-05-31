@@ -17,7 +17,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗔𝗥𝗧𝗜𝗦𝗧+𝗠𝗨𝗦𝗜𝗖+𝗥𝗘𝗣𝗢+𝗕𝗘𝗙𝗢𝗥𝗘+𝗗𝗘𝗣𝗟𝗢𝗬⚠️">
 
 ---
-
+<h2 align="center">🚀 𝗗𝗘𝗣𝗟𝗢𝗬 𝗙𝗥𝗘𝗘 𝗢𝗡 𝗥𝗘𝗡𝗗𝗘𝗥 🚀</h2>
+---
 ## ✨ Features
 
 - 🎵 **High Quality Music Streaming** - Crystal clear audio with STUDIO quality
