@@ -48,7 +48,7 @@ class Inline:
 
         if not remove:
             # Seek buttons row
-            
+
             # Main control buttons row
             keyboard.append(
                 [
@@ -189,11 +189,7 @@ class Inline:
             ],
             [
                 self.ikb(text=lang["help"], callback_data="help", style=ButtonStyle.SUCCESS),
-                self.ikb(text="ꜱᴏᴜʀᴄᴇ", url="https://github.com/elevenyts/ArtistMusic", style=ButtonStyle.SUCCESS),
-            ],
-            [
-                self.ikb(text=lang["support"], url=config.SUPPORT_CHAT, style=ButtonStyle.PRIMARY),
-                self.ikb(text=lang["channel"], url=config.SUPPORT_CHANNEL, style=ButtonStyle.PRIMARY),
+                self.ikb(text="ꜱᴏᴜʀᴄᴇ", url="https://t.me/MAGMAxRICH", style=ButtonStyle.SUCCESS),
             ],
         ]
         return self.ikm(rows)
